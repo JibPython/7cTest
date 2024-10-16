@@ -1,1 +1,7 @@
 print("hello world")
+<<<<<<< HEAD
+=======
+
+# Luke's commit
+print("goodbye world")
+>>>>>>> login
